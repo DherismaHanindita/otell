@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'DherismaWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3B648CF479A437DA69E1C0EBA75DCD3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_666D5E9AA8794479AEA95F0F98C4BCCE }}
           package: .
